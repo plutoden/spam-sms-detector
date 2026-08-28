@@ -33,4 +33,3 @@ if st.button("Predict"):
         st.write("This message is classified as spam.")
     else:
         st.success("Prediction: NOT SPAM")
-        st.write("This message is classified as not spam.")
